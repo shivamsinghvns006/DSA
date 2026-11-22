@@ -15,3 +15,67 @@ Focus: Data Structures and Algorithms
 Purpose: Coding practice, interview preparation, and improving problem-solving skills.
 
 Synchronization: LeetSync
+
+📚 Topics Covered
+
+This repository includes problems from various DSA topics:
+
+Topic
+
+Description
+
+Arrays
+
+Searching, sorting, and array manipulation
+
+Strings
+
+String manipulation and pattern matching
+
+Hashing
+
+HashMap, HashSet, and frequency counting
+
+Two Pointers
+
+Efficient array and string techniques
+
+Sliding Window
+
+Subarray and substring problems
+
+Binary Search
+
+Searching and optimization techniques
+
+Linked Lists
+
+Reversal, merging, and traversal
+
+Stacks & Queues
+
+Stack operations and queue implementation
+
+Trees
+
+Binary trees and tree traversal
+
+Recursion
+
+Recursive problem-solving techniques
+
+Backtracking
+
+N-Queens and permutation problems
+
+Dynamic Programming
+
+Optimization and overlapping subproblems
+
+Greedy Algorithms
+
+Making locally optimal choices
+
+Graphs
+
+Graph traversal and related algorithms
