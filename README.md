@@ -79,3 +79,17 @@ Making locally optimal choices
 Graphs
 
 Graph traversal and related algorithms
+
+🎯 My Goals
+
+Strengthen my understanding of Data Structures and Algorithms.
+
+Develop efficient and optimized solutions.
+
+Improve logical thinking and analytical skills.
+
+Understand time and space complexity.
+
+Prepare for technical interviews and competitive programming.
+
+Maintain consistency in daily coding practice.
